@@ -1,0 +1,7 @@
+﻿# Configuration thresholds
+channel_deviation_threshold: 0.15
+location_mismatch_threshold_km: 50
+risk_score_thresholds:
+  low: 20
+  medium: 50
+  high: 75
