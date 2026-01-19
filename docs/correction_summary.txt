@@ -1,0 +1,11 @@
+TRANSACTION DATA CORRECTION SUMMARY
+==================================================
+
+Original negative transactions: 558
+Corrected negative transactions: 558
+
+Original min transaction: -24,125,400,000
+Corrected min transaction: -831,033,521
+
+Original mean negative: -1,343,043,019
+Corrected mean negative: -11,449,410
