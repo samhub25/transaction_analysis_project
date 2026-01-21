@@ -10,3 +10,8 @@ numba==0.57.1
 scipy==1.11.1
 seaborn==0.12.2
 ipywidgets==8.1.1
+scikit-learn>=1.3.0  # For Isolation Forest, LOF, One-Class SVM
+scipy>=1.10.0        # For stats like Mahalanobis
+geopy>=2.4.0         # For geographic distances
+pytest>=7.4.0
+joblib>=1.2.0        # For model saving
