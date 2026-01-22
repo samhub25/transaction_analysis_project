@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from src import preprocessing as pp
 
-
 def test_clean_transaction_dates_and_sanitize_amounts():
     df = pd.DataFrame(
         {
